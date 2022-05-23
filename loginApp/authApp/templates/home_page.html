@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+    <header>
+        <!-- {% load static %} -->
+        <title>Authentication App</title>
+    </header>
+    <body class="body" >
+        
+        <h1 style="text-align: center;">WEL-COME to FINANCEPEER Portal</h1>
+        <div style="float: right; margin-bottom:20px;"><a href="{% url 'home_page' %}"><button style="font-size: 15px; color:red;">LOGOUT</button></a></div>
+        <div style="float: left; margin-bottom:20px;"><a href="show_jsonData"><button style="font-size: 15px; color:green;">JSON Data</button></a></div>
+        <br><br><br>
+        <div class="uploadFile" style="text-align: center;">
+            <form method="POST" action="{% url 'file_uploaded' %}" enctype="multipart/form-data" >
+                {% csrf_token %}
+                <label>Upload a json file</label><br><br>
+                <input type="file" name="file" accept="file"><br><br>
+                <button type="submit">Upload</button>
+            </form>
+        </div>
+
+    </body>
+</html>

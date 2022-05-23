@@ -1,0 +1,79 @@
+
+
+
+web_1:
+
+Fun Fun Function	https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/featured	
+Wes Bos				https://www.youtube.com/user/wesbos/featured
+FreeCodeCamp		https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+Traversy Media		https://www.youtube.com/user/TechGuyWeb
+Academind			https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w
+The Net Ninja		https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+Techsith			https://www.youtube.com/user/techSithTube/featured
+Pusher				https://www.youtube.com/user/pusherapp/about
+The Coding Train	https://www.youtube.com/user/shiffman/featured
+Hitesh Choudhary	https://www.youtube.com/user/hiteshitube/featured
+
+--------------------------------------------------------------------------------------
+web_2:
+
+1. Coding with Basir 		:	https://www.youtube.com/channel/UC2xRE4hUCQ3xO3ymEtMh1Hw
+2. Code Geek		 		:	https://www.youtube.com/channel/UCBo8gKX8SCsgplZwln-45qw
+3. Quentin Watt Tutorials 	:	https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w
+4. Colt Steele 				:	https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw
+5. Intellipaat 				:	https://www.youtube.com/channel/UCCktnahuRFYIBtNnKT5IYyg
+
+1. FreeCodeCamp	:	https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+2. Programming with Mosh :	https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA
+3. Hitesh Choudhary			:	https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A
+4. edureka! :	https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ
+
+----------------------------------------------------------------------------------------
+
+WEB_3:
+
+1. Java Guides : 	https://www.youtube.com/c/JavaGuides/about
+2. Wes Bos 		:	https://www.youtube.com/c/WesBos/about
+3. Simplilearn	:	https://www.youtube.com/c/SimplilearnOfficial/featured
+4. Quentin Watt Tutorials	:	https://www.youtube.com/c/QuentinWatt/featured
+5. Techsith:	https://www.youtube.com/c/Techsithtube/featured
+6. Intellipaat	:	https://www.youtube.com/c/Intellipaat/featured
+7. Academind	:	https://www.youtube.com/c/Academind/featured
+8. Codevolution	:	https://www.youtube.com/c/Codevolution
+9. Traversy Media	:	https://www.youtube.com/c/TraversyMedia/featured
+10. Clever Programmer	:	https://www.youtube.com/c/CleverProgrammer/featured
+
+----------------------------------------------------------------------------------------
+
+WEB_4 : 
+
+1. Codevolution	:	https://www.youtube.com/c/Codevolution
+2. Academind	:	https://www.youtube.com/c/Academind
+3. freeCodeCamp.org:	https://www.youtube.com/c/Freecodecamp
+4. Traversy Media:	https://www.youtube.com/c/TraversyMedia
+5. TheNetNinja	:	https://www.youtube.com/c/TheNetNinja
+6. Programming with Mosh	:	https://www.youtube.com/c/programmingwithmosh
+7. Clever Programmer 	:	https://www.youtube.com/c/CleverProgrammer
+8. Techsith 		:	https://www.youtube.com/user/techSithTube/featured
+9. LearnCode.academy	:	https://www.youtube.com/c/learncodeacademy
+10. Java Guides 		:	https://www.youtube.com/c/JavaGuides
+
+-----------------------------------------------------------------------------------------
+
+WEB_5:
+
+1 CodeWithHarry		:	https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
+2 Clever Programmer :	https://www.youtube.com/watch?v=-cMqr9HpZ-Y
+3 FreeCodeCamp.org 	:	https://www.youtube.com/watch?v=nTeuhbP7wdE
+4 Code Evolution 	:	https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+5 Technical Thapa	:	https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+
+
+-----------------------------------------------------------------------------------------
+
+Project List :
+
+1. FreeCodeCamp:	https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+2. Karl Hadwen :	https://www.youtube.com/channel/UC1DUQiZduv_yNZy0O7n_iHA
+3. Code Geek :		https://www.youtube.com/channel/UCBo8gKX8SCsgplZwln-45qw
+4. Advance Coding :	https://www.youtube.com/channel/UCDgoLt9HemDQgn6mzdSbZVQ
